@@ -9,7 +9,7 @@ Welcome to my **Netflix Clone**! This is a React-based web application that mimi
 ![Vite](https://img.shields.io/badge/Frontend-Vite-yellow?style=for-the-badge&logo=vite)
 
 ## 🎥 Demo
-Unfortunately because of some chrome's privacy about clone websites (such as spotify , netflix , etc...) we are not allowed to show the live demmo on server that show 
+Unfortunately because of some chrome's privacy about clone websites (such as spotify , netflix , etc...) we are not allowed to show the live demo
 
 ## 🚀 Features
 - **Responsive Design**: Works seamlessly on desktop and mobile devices.
